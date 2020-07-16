@@ -1,0 +1,12 @@
+#container div {
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    float: left;
+}
+#coontainer {
+    width: 500px;
+}
+.grey {
+    background-color: grey;
+}
